@@ -4,13 +4,15 @@
 margin: 0;
 pading: 0;
 }
-html {
+#header {
+background-color: purple;
+color: white;
+}
+#content {
 background-color: white;
 color: black;
 }
 h1 {
-background-color: purple;
-color: white;
 font-size: 30px;
 font-style: cambria;
 line-height: 36px;
@@ -18,8 +20,6 @@ margin-left: 20px;
 margin-bottom: 18px;
 }
 h2 {
-background-color: purple;
-color: white;
 font-size: 18px;
 font-style: cambria;
 line-height: 18px;
